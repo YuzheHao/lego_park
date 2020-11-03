@@ -1,0 +1,63 @@
+input {font-family: “Source Code Pro”;}
+
+.line_banner_back
+{
+	height: 60px;
+	width: auto;
+	background: #53b635;/*背景色*/
+	border-width: 0px;
+	border-style: solid;
+	border-radius: 2px;
+	position:relative;
+    left:100px;
+    top:200px;
+    animation:myfirst 5s;
+    animation-iteration-count:infinite;
+    animation-timing-function: linear;
+}
+
+.line_banner_front_text
+{
+	font-family: "Source Code Pro",\5FAE\8F6F\96C5\9ED1;
+    font-size: 84px;
+    position:relative;
+    left: -20px;
+    top: -55px;
+    animation:myfirst2 5s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-out;
+
+}
+
+
+@keyframes myfirst
+{
+    0%   {position:relative;left:0px;top:0px;height:60;}
+    25%  {position:relative;left:left+20px;top:0px;height:70;}
+    50%  {position:relative;left:20px;top:20px;height:85;}
+    75%  {position:relative;left:0px;top:20px;height:70;}
+    100% {position:relative;left:0px;top:0px;height:60;}
+
+}
+
+@keyframes myfirst2
+{
+    0%   {position:relative;left:-20px;top:-55px}
+    25%  {position:relative;left:-20px;top:-45px}
+    50%  {position:relative;left:-10px;top:-25px}
+    75%  {position:relative;left:-20px;top:-45px}
+    100% {position:relative;left:-20px;top:-55px}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
