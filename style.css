@@ -47,18 +47,47 @@ input {font-family: “Source Code Pro”;}
     100% {position:relative;left:-20px;top:-55px}
 }
 
-.menu
-{
-    margin: 50px auto;
-    overflow:hidden
-}
-.menu_block
+
+
+
+
+
+
+
+
+
+
+#menu_block_L
 {
     height: 80px;
     width: 200px;
     background: #53b635;/*背景色*/
    
-    margin: 5px;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 4px;
+    font-family: "Source Code Pro",\5FAE\8F6F\96C5\9ED1;
+    font-size: 36px;
+    transition:0.5s;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+#menu_block_L:hover {
+    background:#000000;
+    color:white;
+    width:250;
+    transform: translate(-50px,0px)
+}
+
+
+
+#menu_block_R
+{
+    height: 80px;
+    width: 200px;
+    background: #53b635;/*背景色*/
 
     border-width: 0px;
     border-style: solid;
@@ -67,27 +96,16 @@ input {font-family: “Source Code Pro”;}
     font-size: 36px;
     transition:0.5s;
 
-    text-align: center;
-    display: table-cell;
-    vertical-align: middle;
-    }
-.menu_block:hover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#menu_block_R:hover {
     background:#000000;
     color:white;
     /*position:relative;*/
     width:250;
 }
-
-
-@keyframes changes
-{
-    0%   {background:#53b635;}
-    100% {background:#000000;color:white}
-}
-
-
-
-
 
 
 
