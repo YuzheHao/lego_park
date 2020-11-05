@@ -1,0 +1,55 @@
+.menu_block_L,.menu_block_R
+{
+    height: 80px;
+    width: 200px;
+    /*background: #53b635;*/
+    color:white;
+   
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 4px;
+    font-family: "Source Code Pro",\5FAE\8F6F\96C5\9ED1;
+    font-size: 36px;
+    transition:0.3s;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+.menu_block_L:hover {
+    background:#F3EED5!important;
+    transform: translate(-50px,0px); 
+    width:250;
+}
+.menu_block_R:hover {
+    background:#F3EED5!important;
+    width:250;
+}
+
+#it0{position:relative;left:0;top:0;background:#eb3b5a;}
+#it1{position:relative;left:0;top:5;background:#fa8231;}
+#it2{position:relative;left:0;top:10;background:#f7b731;}
+#it3{position:relative;left:205;top:-240;background:#20bf6b;}
+#it4{position:relative;left:205;top:-235;background:#0fb9b1;}
+#it5{position:relative;left:205;top:-230;background:#2d98da;}
+
+#it0:hover{
+    color:#eb3b5a!important;
+}
+#it1:hover{
+    color:#fa8231!important;
+}
+#it2:hover{
+    color:#f7b731!important;
+}
+#it3:hover{
+    color:#20bf6b!important;
+}
+#it4:hover{
+    color:#0fb9b1!important;
+}
+#it5:hover{
+    color:#2d98da!important;
+}
+
