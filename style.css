@@ -1,6 +1,6 @@
 input {font-family: “Source Code Pro”;}
 
-.line_banner_back
+.banner_back
 {
 	height: 60px;
 	width: auto;
@@ -16,7 +16,7 @@ input {font-family: “Source Code Pro”;}
     animation-timing-function: linear;
 }
 
-.line_banner_front_text
+.banner_text
 {
 	font-family: "Source Code Pro",\5FAE\8F6F\96C5\9ED1;
     font-size: 84px;
@@ -26,9 +26,7 @@ input {font-family: “Source Code Pro”;}
     animation:myfirst2 5s;
     animation-iteration-count:infinite;
     animation-timing-function: ease-out;
-
 }
-
 
 @keyframes myfirst
 {
@@ -49,9 +47,29 @@ input {font-family: “Source Code Pro”;}
     100% {position:relative;left:-20px;top:-55px}
 }
 
+.menu_block
+{
+    height: auto;
+    width: auto;
+    background: #53b635;/*背景色*/
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 2px;
+    font-family: "Source Code Pro",\5FAE\8F6F\96C5\9ED1;
+    font-size: 84px;
+    transition:1s;
+}
+.menu_block:hover {
+    background:#000000;
+    color:white
+}
 
 
-
+@keyframes changes
+{
+    0%   {background:#53b635;}
+    100% {background:#000000;color:white}
+}
 
 
 
