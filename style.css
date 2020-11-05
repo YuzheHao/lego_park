@@ -47,21 +47,35 @@ input {font-family: “Source Code Pro”;}
     100% {position:relative;left:-20px;top:-55px}
 }
 
+.menu
+{
+    margin: 50px auto;
+    overflow:hidden
+}
 .menu_block
 {
-    height: auto;
-    width: auto;
+    height: 80px;
+    width: 200px;
     background: #53b635;/*背景色*/
+   
+    margin: 5px;
+
     border-width: 0px;
     border-style: solid;
-    border-radius: 2px;
+    border-radius: 4px;
     font-family: "Source Code Pro",\5FAE\8F6F\96C5\9ED1;
-    font-size: 84px;
-    transition:1s;
-}
+    font-size: 36px;
+    transition:0.5s;
+
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    }
 .menu_block:hover {
     background:#000000;
-    color:white
+    color:white;
+    /*position:relative;*/
+    width:250;
 }
 
 
