@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"line-height\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"li",
+				"line_banner"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"line",
+				"line_banner_back"
+			],
+			[
+				"lin",
+				"line_banner"
+			],
+			[
+				"col",
+				"color-dodge\tmix-blend-mode"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"chp",
+				"chp_block"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"ste",
+				"step1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add All"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"",
+				"ApplySyntax: Browse Syntaxes"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"Git: ",
+				"Git: Add All"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta\t",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"open ",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"pretty",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"from leetcode_filename_modifying.py import process",
+			"exit()",
+			"quit",
+			"quit()",
+			"from leetcode_filename_modifying import process",
+			"print(process(n))",
+			"n = '107. Binary Tree Level Order Traversal II'",
+			"print('as')",
+			"python",
+			"ls",
+			"print(a)",
+			"print(A）",
+			"print(A)",
+			"a = 0",
+			"hi"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/flowup.css",
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/style.css",
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/main.html",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/menu.css",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/script.js",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/Theme - Default/adaptive/Adaptive.sublime-theme",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/flowup",
+		"/Users/Yuzhe/Documents/projects/peanuts/lego_park/banner.css",
+		"/Users/Yuzhe/Desktop/untitled.html",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Yuzhe/Desktop/Css3_Transform_samples.css",
+		"/Users/Yuzhe/Desktop/Css3_Transform_samples",
+		"/Users/Yuzhe/Documents/projects/peanuts/amiya/amiya.py",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/add_weapon.py",
+		"/Users/Yuzhe/Desktop/methods.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/main.html",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/style.css",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/gallery/Chenxi_L.json",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/resource/README.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/ver.0.2/Zexu G./打开这里，别翻源码.html",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/ver.0.2/Zexu G./funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/ver.0.2/Chen-xi L./funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/ver.0.2/Chen-xi L./打开这里，别翻源码.html",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/ver.0.2/Lina G./funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/ver.0.2/Lina G./点开这个.html",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/gallery.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/test",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/current/file.json",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver_0.2.1/gallery.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver_0.2.1/file的副本.json",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver_0.2.1/file.json",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver_0.2.1/style.css",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver_0.2.1/main.html",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver_0.2.1/funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/gallary/README.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.1_by_python/README.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2_by_HTML/README.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2.1/README.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2.1/SAVEDATA.template.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/samples/README.md",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2_by_HTML/main.html",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2_by_HTML/funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2_by_HTML/author.json",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/ver.0.2_by_HTML/javascript.js",
+		"/Users/Yuzhe/Documents/projects/html/enzos-sample/funcs.js",
+		"/Users/Yuzhe/Documents/projects/peanuts/Enzo-s/1_burner.py",
+		"/Users/Yuzhe/Github_key.pub",
+		"/Users/Yuzhe/Desktop/amiya/amiya.py",
+		"/Users/Yuzhe/Desktop/amiya.py",
+		"/Users/Yuzhe/Desktop/amiya_box.py",
+		"/Users/Yuzhe/Desktop/关于求职",
+		"/Users/Yuzhe/Documents/workflow/box/critical thinking 10.15",
+		"/Users/Yuzhe/Documents/workflow/box/leetcode_filename_modifying.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/# 107. Binary Tree Level Order Traversal II.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/104. Maximum Depth of Binary Tree.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/101. Symmetric Tree.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/100. Same Tree.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/# 88. Merge Sorted Array.py",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/ApplySyntax.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/83. Remove Duplicates from Sorted List.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/70. Climbing Stairs",
+		"/Users/Yuzhe/Documents/projects/py/optical_flow/func_support.py",
+		"/Users/Yuzhe/Desktop/Company list",
+		"/Users/Yuzhe/Documents/文档/我的一些思考",
+		"/Users/Yuzhe/Experiments/2020092701/001-failed/README",
+		"/Users/Yuzhe/Documents/fitbit/sensor_read/app/index.js",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0067_Add_Binary.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/69. Sqrt(x) .py",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/67. Add Binary.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/66. Plus One.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/58. Length of Last Word.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/53. Maximum Subarray.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/38. Count and Say.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/35. Search Insert Position.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/28. Implement strStr().py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/26. Remove Duplicates from Sorted Array.py",
+		"/Users/Yuzhe/Documents/workflow/ll.leetcode_filename_modifying.command",
+		"/Users/Yuzhe/Library/Application Support/Sublime Text 3/Packages/User/0026_Remove_Duplicates_from_Sorted_Array.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0027_Remove_Element.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0020_Valid_Parentheses.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0021_Merge_Two_Sorted_Lists.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0020_Valid_Parentheses .py",
+		"/Users/Yuzhe/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/8cb08cd998223caf813ce7bb03f20e4e/Message/MessageTemp/88c456656348cbda5098ef9e60adc76d/File/04_提取各国疫情数据(1).py",
+		"/Users/Yuzhe/Desktop/tt.py",
+		"/Users/Yuzhe/Downloads/annotation_tool_online_v1.1/annotation_tool_online_v1.1.py",
+		"/Users/Yuzhe/Desktop/狗",
+		"/Users/Yuzhe/Desktop/the_dog_with_three_heads",
+		"/Users/Yuzhe/Desktop/看门狗",
+		"/Users/Yuzhe/Untitled.ipynb",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/draft for paper reading",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/家具购买清单",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0014_Longest_Common_Prefix.py",
+		"/Users/Yuzhe/Documents/projects/py/birdfood/leetcode/0013_Roman_to_Integer.py",
+		"/Users/Yuzhe/mip.py",
+		"/Users/Yuzhe/Documents/fitbit/sensor_read/fitbit_test_run.sh",
+		"/Users/Yuzhe/Documents/证件资料/signature/网址",
+		"/Users/Yuzhe/Desktop/untitled",
+		"/Users/Yuzhe/Desktop/AR project",
+		"/Users/Yuzhe/Desktop/雷狼龙狩猎日志",
+		"/Users/Yuzhe/Desktop/realsense testdata",
+		"/Users/Yuzhe/Desktop/第10章梗概",
+		"/Users/Yuzhe/Documents/projects/html/poem-of-snow/pos.html",
+		"/Users/Yuzhe/Desktop/DGS #678",
+		"/Users/Yuzhe/Documents/projects/peanuts/peanuts/ARExercise.pde",
+		"/Users/Yuzhe/Desktop/雪花辞人物表",
+		"/Users/Yuzhe/Desktop/ARExercise.pde",
+		"/Users/Yuzhe/Desktop/Experiment list for 4.10",
+		"/Users/Yuzhe/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steamui/localization/shared_schinese.js",
+		"/Users/Yuzhe/Desktop/log-2020-2-28-12-17-mostima",
+		"/Users/Yuzhe/Documents/Enzo's/weijia/打开这里，别翻源码.html",
+		"/Users/Yuzhe/Desktop/打开这里，别翻源码.html",
+		"/Users/Yuzhe/Documents/Enzo's/weijia/funcs.js",
+		"/Users/Yuzhe/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/8cb08cd998223caf813ce7bb03f20e4e/Message/MessageTemp/9d1dd214e4d6578f268e82b5a4da9028/File/19M38395_YE_ZHUOBIN_ASSIGNMENT7/src/SimpleExample6Objs.java",
+		"/Users/Yuzhe/Desktop/Feb.12/word2vec_pytorch-master/word_embedding.txt"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/projects/peanuts/lego_park/main.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
