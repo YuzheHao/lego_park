@@ -1,11 +1,15 @@
 .flowup {
-    border-radius: 4px;
     height: 80;
     width: 200;
     padding: 3;
     padding-left: 10;
-    background: #53b635;
-    color: white;
+    border-radius: 4px;
+
+    font-family: "Source Code Pro", \5FAE\8F6F\96C5\9ED1;
+    font-size: 36px;
+
+    color: #ff5000;
+    background: #333333 !important;
     transition: 0.3s;
 
     display: flex;
@@ -13,18 +17,17 @@
     justify-content: center;
 }
 
-.flowup_text {
-    font-family: "Source Code Pro", \5FAE\8F6F\96C5\9ED1;
-    font-size: 36px;
-    position: relative;
+
+.flowup p {
     transition: 0.3s;
 }
 
 .flowup:hover {
-    background: #F3EED5 !important;
-    ;
+    background: #535355 !important;
 }
 
-.flowup:hover>.flowup_text {
-    transform: translate(240px, -20px);
+.flowup:hover p {
+    transform: translate(80px, -48px);
+    font-size: 74px;
+    font-weight: bolder;
 }

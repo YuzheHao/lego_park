@@ -8,3 +8,18 @@ function magic(target, xx, yy) {
         });
     });
 }
+
+function change_text(target) {
+    $(document).ready(function() {
+        $('div.' + target).hover(
+            function() {
+                $('#shown')[0].innerHTML = 'asdasdas';
+                $('#hidden')[0].fadeIn(30);
+                $('#shown')[0].fadeOut(30);
+            },
+            function() {
+                $('#shown')[0].fadeIn(30);
+                $('#hidden')[0].fadeOut(30);
+            });
+    });
+}
