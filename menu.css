@@ -28,44 +28,26 @@
 }
 
 #it0 {
-    position: relative;
-    left: 0;
-    top: 0;
     background: #eb3b5a;
 }
 
 #it1 {
-    position: relative;
-    left: 0;
-    top: 5;
     background: #fa8231;
 }
 
 #it2 {
-    position: relative;
-    left: 0;
-    top: 10;
     background: #f7b731;
 }
 
 #it3 {
-    position: relative;
-    left: 205;
-    top: -240;
     background: #20bf6b;
 }
 
 #it4 {
-    position: relative;
-    left: 205;
-    top: -235;
     background: #0fb9b1;
 }
 
 #it5 {
-    position: relative;
-    left: 205;
-    top: -230;
     background: #2d98da;
 }
 

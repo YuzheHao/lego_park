@@ -1,7 +1,7 @@
 .flowup {
     border-radius: 4px;
-    height: 100;
-    width: 900;
+    height: 80;
+    width: 200;
     padding: 3;
     padding-left: 10;
     background: #53b635;
@@ -15,19 +15,16 @@
 
 .flowup_text {
     font-family: "Source Code Pro", \5FAE\8F6F\96C5\9ED1;
-    font-size: 84px;
+    font-size: 36px;
     position: relative;
     transition: 0.3s;
 }
 
 .flowup:hover {
-    background: #000000 !important;
+    background: #F3EED5 !important;
     ;
 }
 
 .flowup:hover>.flowup_text {
-    transform: translate(150px, -50px);
-
-    color: #00FF00 !important;
-    ;
+    transform: translate(240px, -20px);
 }
