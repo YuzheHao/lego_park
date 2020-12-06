@@ -1,0 +1,10 @@
+.box_namecard {
+    transition: 0.3s;
+    width: 600;
+    height: 374;
+    background: url(../resource/name_card_face.png);
+}
+
+.box_namecard:hover {
+    background: url(../resource/name_card_back.png);
+}
