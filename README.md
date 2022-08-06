@@ -10,3 +10,5 @@ merge_test-2
 #TODO: 一个merge的模版
 
 然后我得让git graph里的图合并过来
+
+是不是squash and merge了就连不起来了？
