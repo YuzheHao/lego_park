@@ -13,3 +13,5 @@ merge_test-2
 
 是不是squash and merge了就连不起来了？
 我这次试试不squash，直接merge
+
+本地试试squash，这样相当于放弃了github那边的操作
