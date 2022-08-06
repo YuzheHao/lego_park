@@ -16,3 +16,4 @@ merge_test-2
 
 本地试试squash，这样相当于放弃了github那边的操作
 我其实也没有非要在那边使用的理由
+我的最终目的是保证master这个branch干净就可以了
