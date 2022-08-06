@@ -6,9 +6,9 @@ git test modified
 git test modified 2
 
 
-merge_test-2
+merge_test-2sadasf
 #TODO: 一个merge的模版
-
+mi
 然后我得让git graph里的图合并过来
 
 是不是squash and merge了就连不起来了？
