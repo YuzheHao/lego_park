@@ -36,3 +36,5 @@ function change_text(target) {
 // 试试在commit的注释里写上#6，能不能在merge之后锁定它是哪个mergeladiesdsadsa
 // 1
 // 2
+// 3
+// 4
