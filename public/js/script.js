@@ -1,7 +1,7 @@
 function magic(target, xx, yy) {
     $(document).ready(function() {
         $('body').mousemove(function(e) {
-            var x = (e.pageX * -1 / 2),
+            var x = (e.pageX *ΩΩ -1 / 2),
                 y = (e.pageY * -1 / 2);
             $('div.' + target).css('left', (x / 10) + xx + 'px');
             $('div.' + target).css('top', (y / 10) + yy + 'px');
@@ -33,4 +33,4 @@ function change_text(target) {
 // 我其实也没有非要在那边使用的理由
 // 我的最终目的是保证master这个branch干净就可以了
 
-// 试试在commit的注释里写上#6，能不能在merge之后锁定它是哪个mergeladies
+// 试试在commit的注释里写上#6，能不能在merge之后锁定它是哪个mergeladiesdsadsa
